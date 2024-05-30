@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\bin\Debug\net6.0\EFW3School.library.deps.json
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\bin\Debug\net6.0\EFW3School.library.dll
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\bin\Debug\net6.0\EFW3School.library.pdb
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\EFW3School.library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\EFW3School.library.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\EFW3School.library.AssemblyInfo.cs
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\EFW3School.library.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\EFW3School.library.dll
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\refint\EFW3School.library.dll
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\EFW3School.library.pdb
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\ref\EFW3School.library.dll
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\bin\Debug\net6.0\EFW3School.library.runtimeconfig.json
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\EFW3School.library.csproj.AssemblyReference.cache
+C:\Users\dell\source\repos\EFW3School\EFW3School.library\obj\Debug\net6.0\EFW3School.library.genruntimeconfig.cache
